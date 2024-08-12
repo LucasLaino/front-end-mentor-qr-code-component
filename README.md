@@ -2,9 +2,10 @@
 
 Essa é a solução do [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-## Table of contents
+## Conteúdo
 
 - [Visão Geral](#Visão-geral)
+  - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu Processo](#meu-processo)
@@ -13,6 +14,10 @@ Essa é a solução do [QR code component challenge on Frontend Mentor](https://
 - [Autor](#autor)
 
 ## Visão Geral
+
+### Desafio
+
+- O desafio constitui em construir o projeto com os designs fornecidos pelo frontend mentor chegando o mais perto possível do design original. No projeto nós podemos usar qualquer tipo de ferramenta para ajudar a concluir o desafio.
 
 ### Screenshot
 
